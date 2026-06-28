@@ -218,7 +218,3 @@ Department of Electronics and Electrical Communication Engineering
 Indian Institute of Technology Kharagpur
 
 ---
-
-## License
-
-This project is released for academic and educational purposes.
